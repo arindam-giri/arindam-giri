@@ -2,6 +2,7 @@
 - 👀 I’m interested in FOSS Projects, programming, contributing in testing and writing technical reviews, tutorials
 - 🌱 I’m currently learning OpenOffice object structure
 - 💞️ I’m looking to collaborate on Foss projects
+- Currently writing at: https://www.debugpoint.com , https://debugpointnews.com
 - 📫 How to reach me:
 - Telegram: https://t.me/arindamgiri
 - Twitter: https://twitter.com/_arindam
