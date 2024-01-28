@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @arindam-giri
-- 👀 I’m interested in FOSS Projects, programming, contributing in testing and writing technical reviews, tutorials
-- 🌱 I’m currently learning OpenOffice/UNO object structure & distributed system design
-- 💞️ I’m looking to collaborate on Foss projects
-- 🤖 Experienced in Python, COBOL, JCL, Z/OS, IBM i Series, AS/400, VBA, C++
-- Currently blogging at: https://www.debugpoint.com , https://debugpointnews.com
+- 👋 Hi, I’m Arindam Giri.
+- I’m interested in FOSS Projects, programming, machine learning & Azure
+- Currently learning distributed system design & Azure
+- Experienced in Python, C#.NET, VB.NET, VBA, COBOL, JCL, Z/OS, IBM i Series, AS/400, CL
+- Author of popular FOSS blog https://www.debugpoint.com & https://debugpointnews.com
 - 📫 How to reach me:
 - Telegram: https://t.me/arindamgiri
 - Twitter: https://twitter.com/_arindam
