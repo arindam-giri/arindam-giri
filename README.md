@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Arindam Giri.
-- I’m interested in FOSS Projects, programming, machine learning & Azure
-- Currently learning distributed system design & Azure
+- GenAI analyst, AI system architect
 - Experienced in Python, C#.NET, VB.NET, VBA, COBOL, JCL, Z/OS, IBM i Series, AS/400, CL
+- Experienced in Vector Embedding, Chunking algorithms, LangChain, AWS Bedrock
 - Author of popular FOSS blog https://www.debugpoint.com & https://debugpointnews.com
 - 📫 How to reach me:
 - Telegram: https://t.me/arindamgiri
