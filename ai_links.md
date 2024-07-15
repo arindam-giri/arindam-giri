@@ -6,22 +6,41 @@ https://community.aws/content/2i4v2vZRb9YgL2RxkawPiF8f0lZ/using-document-chat-wi
 
 https://medium.com/deepset-ai/pdf-based-question-answering-with-amazon-bedrock-and-haystack-dc234003ffd8
 
+Python RAG Tutorial (with Local LLMs): AI For Your PDFs
+https://www.youtube.com/watch?v=2TJxpyO3ei4&t=1066s
 
-**Amazon bedrock link**
+https://github.com/pixegami/rag-tutorial-v2/blob/main/populate_database.py
 
-Supported regions and models for Knowledge bases for Amazon Bedrock
-https://docs.aws.amazon.com/bedrock/latest/userguide/knowledge-base-supported.html
+**memory**
+How to persist LangChain conversation memory (save and load)?
+https://stackoverflow.com/questions/75965605/how-to-persist-langchain-conversation-memory-save-and-load
 
 
 **Streaming**
 
 https://alejandro-ao.com/how-to-use-streaming-in-langchain-and-streamlit/
 
+Stream LLMs with LangChain + Streamlit | Tutorial
 https://www.youtube.com/watch?v=zKGeRWjJlTU&t=10s
 
-Stream LLMs with LangChain + Streamlit | Tutorial
 
 **Anthopic/Claude links**
 
 https://docs.anthropic.com/en/docs/build-with-claude/embeddings
+
+**Amazon bedrock link**
+
+Supported regions and models for Knowledge bases for Amazon Bedrock
+https://docs.aws.amazon.com/bedrock/latest/userguide/knowledge-base-supported.html
+
+how to count tokens
+https://www.reddit.com/r/aws/comments/17fdusy/how_to_count_tokens_using_aws_bedrock/
+
+**streamlit**
+excel sheet dashbaord in streamlit
+https://medium.com/@vishaltyagi.dev098/excel-sheet-interactive-dashboard-python-streamlit-114f7c240fc8
+
+AxiosError: Request failed with status code 403
+(during file upload)
+https://discuss.streamlit.io/t/axioserror-request-failed-with-status-code-403/38112
 
