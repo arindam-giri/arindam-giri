@@ -42,12 +42,13 @@ https://medium.com/@vishaltyagi.dev098/excel-sheet-interactive-dashboard-python-
 
 
 **Langchain agents**
+
 https://towardsdatascience.com/building-a-simple-agent-with-tools-and-toolkits-in-langchain-77e0f9bd1fa5
 https://brightinventions.pl/blog/introducing-langchain-agents-tutorial-with-example/
 
+Agent types
 
 
-AxiosError: Request failed with status code 403
-(during file upload)
-https://discuss.streamlit.io/t/axioserror-request-failed-with-status-code-403/38112
+**Errors**
+
 
