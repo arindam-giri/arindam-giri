@@ -1,10 +1,11 @@
 
 - GenAI analyst, AI ML Solution Engineer
-- Experienced in Vector Embedding & Chunking algorithms, AWS Bedrock
+- Experienced in Vector Embedding & Chunking algorithms
+- Experienced in AWS Bedrock, Bedrock Knowledge Bases
 - Experienced in solutioning Multiagent framework
-- Worked with Claude, Amazon Titan models, Self query retriever, LangChain, Agents and Tools
+- Worked with Claude, Amazon Titan models, Self query retriever, LangChain, Agents and Tools, LangGraph
 - Developed AI application chatbots, document classification, structured and unstructured data to vector
-- Framework and languages: Python, Flask, Langchain, Llamaindex, NLP, Streamlit
+- Framework and languages: Python, Flask, Langchain, LangGraph, Llamaindex, NLP, Streamlit
 - LLM - Embedding: Amazon Titan, OpenAI Embedding, Custom embedding
 - LLM - Retrieval: Selfquery, MMR, K means
 - LLM - Generation: Claude 3.5, Claude Sonnet, Claude OPUS, GPT 4-o
