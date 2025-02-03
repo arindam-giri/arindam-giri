@@ -11,7 +11,6 @@
 - LLM - Generation: Claude 3.5, Claude Sonnet, Claude OPUS, GPT 4-o
 - Author of popular FOSS blog https://www.debugpoint.com & https://debugpointnews.com
 - 📫 How to reach me:
-- Telegram: https://t.me/arindamgiri
 - Twitter: https://twitter.com/_arindam
 - LinkedIn: https://www.linkedin.com/in/arindam-giri/
 
