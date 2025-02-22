@@ -1,5 +1,5 @@
 
-- GenAI Solution Architect, AI ML Solution Engineer
+- GenAI Solution Architect
 - Experienced in Vector Embedding & Chunking algorithms and crafting business problems to GenAI use cases
 - Experienced in AWS Bedrock, Bedrock Knowledge Bases
 - Experienced in solutioning Multiagent framework
