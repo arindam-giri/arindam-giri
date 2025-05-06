@@ -1,14 +1,21 @@
+Generative AI solution engineer and architect
 
-- GenAI Solution Architect
-- Experienced in Vector Embedding & Chunking algorithms and crafting business problems to GenAI use cases
-- Experienced in AWS Bedrock, Bedrock Knowledge Bases
-- Experienced in solutioning Multiagent framework
-- Worked with Claude, Amazon Titan models, Self query retriever, LangChain, Agents and Tools, LangGraph
-- Developed AI application chatbots, document classification, structured and unstructured data to vector
-- Framework and languages: Python, Flask, Langchain, LangGraph, Llamaindex
-- LLM - Embedding: Amazon Titan, OpenAI Embedding, Custom embedding
-- LLM - Retrieval: Selfquery, MMR, K means
-- LLM - Generation: Claude 3.5, Claude Sonnet, Claude OPUS, GPT 4-o
+I specialize in designing and implementing Generative AI solutions for enterprises. With a proven track record of delivering scalable, production-ready GEN AI solutions, I excel at bridging the gap between complex business challenges and advanced GenAI capabilities.
+
+**Recent works:**
+
+- Enterprise document analysis: Designed and solutioned a complex Generative AI solution to extract insights for various business quote documents (docx, pdf) by implementing a complex RAG solution. Uses Langchain, Langraph, Python, Claude 3.7, pgvector, difflib, parent document retriever.
+
+- Legacy System Modernization: Architected and implemented GenAI-powered production solutions for reverse and forward engineering of legacy source code (SAS, Java, Python, VB6, COBOL, TSQL), enabling seamless modernization and scalability. Designed effective solution to handle high volume of lines of code.
+
+- Multi-Agent Frameworks: Built a multi-agent framework from scratch in Python, leveraging Claude 3.5, with features like orchestration, reasoning, caching, and agentic RAG for faster inference and dynamic learning.
+
+- Unstructured Data Processing: Designed custom solutions to parse and extract critical information from unstructured data (emails, PDFs, Excel) for post-processing, enabling actionable insights and decision-making.
+
+- GEN AI/ML Tools & Technologies: Proficient in Claude 3.5, Claude 3.7, AWS Lambda, Amazon Bedrock, LangChain and Langraph, with expertise in vector embeddings, few-shot learning, and intelligent agent development.
+
+- Supported tools for GenAI solutions: NetworkX graph, mermaid diagrams from graph, pdf parsers and creations, Flask, Playwright automation
+
 - Author of popular FOSS blog https://www.debugpoint.com & https://debugpointnews.com
 - 📫 How to reach me:
 - Twitter: https://twitter.com/_arindam
