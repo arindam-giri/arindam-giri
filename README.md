@@ -1,6 +1,6 @@
 Generative AI solution engineer and architect
 
-I specialize in designing and implementing Generative AI solutions for enterprises. With a proven track record of delivering scalable, production-ready GEN AI solutions, I excel at bridging the gap between complex business challenges and advanced GenAI capabilities.
+I specialize in designing and implementing Generative AI solutions for enterprises using commercial large language models (LLM) and frameworks. With a proven track record of delivering scalable, production-ready GEN AI solutions, I excel at bridging the gap between complex business challenges and advanced GenAI capabilities.
 
 **Recent enterprise works:**
 
