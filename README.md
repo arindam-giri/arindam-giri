@@ -16,7 +16,7 @@ I specialize in designing and implementing Generative AI solutions for enterpris
 
 - Supported tools for GenAI solutions: NetworkX graph, mermaid diagrams from graph, pdf parsers and creations, Flask, Playwright automation
 
-** Misc projects **
+**Misc projects**
 - Author of popular FOSS blog https://www.debugpoint.com & https://debugpointnews.com
 
 - 📫 How to reach me:
