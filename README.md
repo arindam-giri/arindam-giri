@@ -2,7 +2,7 @@ Generative AI solution engineer and architect
 
 I specialize in designing and implementing Generative AI solutions for enterprises. With a proven track record of delivering scalable, production-ready GEN AI solutions, I excel at bridging the gap between complex business challenges and advanced GenAI capabilities.
 
-**Recent works:**
+**Recent enterprise works:**
 
 - Enterprise document analysis: Designed and solutioned a complex Generative AI solution to extract insights for various business quote documents (docx, pdf) by implementing a complex RAG solution. Uses Langchain, Langraph, Python, Claude 3.7, pgvector, difflib, parent document retriever.
 
@@ -16,7 +16,9 @@ I specialize in designing and implementing Generative AI solutions for enterpris
 
 - Supported tools for GenAI solutions: NetworkX graph, mermaid diagrams from graph, pdf parsers and creations, Flask, Playwright automation
 
+** Misc projects **
 - Author of popular FOSS blog https://www.debugpoint.com & https://debugpointnews.com
+
 - 📫 How to reach me:
 - Twitter: https://twitter.com/_arindam
 - LinkedIn: https://www.linkedin.com/in/arindam-giri/
