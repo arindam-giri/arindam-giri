@@ -1,6 +1,8 @@
 Generative AI solution engineer and architect
 
-I specialize in designing and implementing Generative AI solutions for enterprises using commercial large language models (LLM) and frameworks. With a proven track record of delivering scalable, production-ready GEN AI solutions, I excel at bridging the gap between complex business challenges and advanced GenAI capabilities.
+Experienced GenAI Solution Architect specializing in designing and implementing Generative AI solutions for enterprises using commercial large language models (LLM) and frameworks. Expert at bridging the gap between complex business challenges and advanced GenAI capabilities. Proven track record in multi-agent frameworks, agentic AI platforms, RAG implementations, and legacy system modernization using Generative AI.
+
+Currently pursuing: Claude Code Agent SDK, Microsoft Agent Framework, MCP protocols, Agent to Agent (A2A) protocol, multi-agent collaboration.
 
 **Recent enterprise works:**
 
@@ -12,11 +14,11 @@ I specialize in designing and implementing Generative AI solutions for enterpris
 
 - Unstructured Data Processing: Designed custom solutions to parse and extract critical information from unstructured data (emails, PDFs, Excel) for post-processing, enabling actionable insights and decision-making.
 
-- GEN AI/ML Tools & Technologies: Proficient in Claude 3.5, Claude 3.7, AWS Lambda, Amazon Bedrock, LangChain and Langraph, with expertise in vector embeddings, few-shot learning, and intelligent agent development.
+- GEN AI/ML Tools & Technologies: Proficient in Claude Sonnet, Claude Opus, Agentic Coding, AWS Lambda, Amazon Bedrock, LangChain and Langraph, with expertise in vector embeddings, few-shot learning, and intelligent agent development.
 
 - Supported tools for GenAI solutions: NetworkX graph, mermaid diagrams from graph, pdf parsers and creations, Flask, Playwright automation
 
-**Misc projects**
+**Personal projects & Open Source contributions**
 - Author of popular FOSS blog https://www.debugpoint.com & https://debugpointnews.com
 
 - 📫 How to reach me:
